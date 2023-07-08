@@ -22,7 +22,9 @@
 </center>
 
 ### How to use...
----------------
+
+---
+
 1. Send any messages to chatbot.
 2. It will answer you question.
 3. You can also write in Korean.
